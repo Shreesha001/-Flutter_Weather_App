@@ -1,6 +1,6 @@
 # 🌤️ Flutter Weather App
 
-A beautiful and responsive Flutter weather app that fetches real-time weather data using the OpenWeather API. Features include temperature, weather conditions, hourly forecasts, and additional weather information.
+A responsive Flutter weather app that fetches real-time weather data using the OpenWeather API. Features include temperature, weather conditions, hourly forecasts, and additional weather information.
 
 ## 📌 Features
 - 🌡️ **Current Temperature**: Displays the latest temperature for the selected city.
